@@ -1,6 +1,7 @@
 # Deep-Stuff-
 
 <img src="https://github.com/bhav09/deep-stuff/blob/master/static/nn.jpg" width="400"/>
+
 This repo is dedicated to deep learning concepts from scratch using python. It is curated by [Bhavishya Pandit](https://www.linkedin.com/in/bhavishya-pandit/)
 
 
