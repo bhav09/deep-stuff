@@ -2,8 +2,7 @@
 
 <img src="https://github.com/bhav09/deep-stuff/blob/master/static/nn.jpg" width="400"/><img src="https://github.com/bhav09/deep-stuff/blob/master/static/cerebrum.jpg" width="300"/>
 
-This repo is dedicated to deep learning concepts from scratch using python. It is curated by [Bhavishya Pandit](https://www.linkedin.com/in/bhavishya-pandit/)
-
+This repo is dedicated to deep learning concepts from scratch using python. It consists the following:
 
 1. Resources(theoretical)
 
@@ -16,7 +15,7 @@ This repo is dedicated to deep learning concepts from scratch using python. It i
 
 ### Concepts covered
 
-It features the following Tools
+Frameworks
 
 * Pytorch
 
