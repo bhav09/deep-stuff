@@ -15,6 +15,25 @@ This repo is dedicated to deep learning concepts from scratch using python. It c
 
 ### Concepts covered
 
+* Definition
+
+* Tensors
+
+* ANN
+
+* CNN
+
+* RNN
+
+* SOM
+
+* Boltmann Machines
+
+* Autoencoders
+
+* GANs
+
+
 Frameworks
 
 * Pytorch
