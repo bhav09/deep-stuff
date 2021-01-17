@@ -1,6 +1,6 @@
 # Deep-Stuff-
 
-<img src="https://github.com/bhav09/deep-stuff/blob/master/static/nn.jpg" width="400"/><img src="https://github.com/bhav09/deep-stuff/blob/master/static/cerebrum.jpg" width="300"/>
+<img src="https://github.com/bhav09/deep-stuff/blob/master/static/nn.jpg" width="500"/><img src="https://github.com/bhav09/deep-stuff/blob/master/static/cerebrum.jpg" width="370"/>
 
 This repo is dedicated to deep learning concepts from scratch using python. It consists the following:
 
@@ -34,7 +34,7 @@ This repo is dedicated to deep learning concepts from scratch using python. It c
 * GANs
 
 
-Frameworks
+### Frameworks
 
 * Pytorch
 
