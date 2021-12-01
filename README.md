@@ -1,4 +1,4 @@
-# Deep-Stuff-
+# Deep-Stuff
 
 <img src="https://github.com/bhav09/deep-stuff/blob/master/static/nn.jpg" width="400"/><img src="https://github.com/bhav09/deep-stuff/blob/master/static/cerebrum.jpg" width="300"/>
 
